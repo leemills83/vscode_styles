@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,   
+  "vscode_custom_css.imports": ["file:///Users/[USERNAME]/vscode_styles/styles.css"]
+}  
